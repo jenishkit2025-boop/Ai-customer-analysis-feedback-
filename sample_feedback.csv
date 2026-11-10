@@ -1,0 +1,21 @@
+date,customer_id,product,feedback
+2026-10-01,C001,Mobile App,The app is very easy to use and works smoothly.
+2026-10-02,C002,Delivery,My order arrived late and the package was damaged.
+2026-10-03,C003,Customer Support,Support staff were friendly and solved my issue quickly.
+2026-10-04,C004,Mobile App,The latest update is confusing and keeps crashing.
+2026-10-05,C005,Product A,Excellent quality for the price. I am very happy.
+2026-10-06,C006,Delivery,Delivery was quick and the driver was polite.
+2026-10-07,C007,Product A,The product stopped working after two days.
+2026-10-08,C008,Customer Support,I waited a long time and nobody answered my call.
+2026-10-09,C009,Mobile App,"Good design, but some pages load slowly."
+2026-10-10,C010,Product B,Absolutely love it. Great experience.
+2026-10-11,C011,Delivery,The parcel was delivered on time.
+2026-10-12,C012,Product B,Not worth the money. Poor quality.
+2026-10-13,C013,Customer Support,The representative was helpful and patient.
+2026-10-14,C014,Mobile App,"It is okay, nothing special."
+2026-10-15,C015,Product A,Very disappointed with the service.
+2026-10-16,C016,Delivery,Fast delivery and everything arrived safely.
+2026-10-17,C017,Product B,The quality is average and acceptable.
+2026-10-18,C018,Customer Support,They resolved my complaint. Thank you!
+2026-10-19,C019,Mobile App,Too many errors. The app is frustrating.
+2026-10-20,C020,Product A,"Fantastic product, highly recommended."
